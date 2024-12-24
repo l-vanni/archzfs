@@ -1,6 +1,6 @@
 on:
   push:
-    branches: [master]
+    branches: [lv-fixbuild]
     paths:
       - '**.sh'
       - '.github/workflows/**'
